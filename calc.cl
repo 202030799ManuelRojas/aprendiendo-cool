@@ -6,7 +6,7 @@ class Main inherits IO{
     division:Int <- 3;
 
     main():Object{
-        --if str < 0 then out_string("no") else out_string("si") fi
+        -- Se prueba el metodo para parsear de string a int
         {
             out_int("1235".length());
             out_string(" tamaño\n\n");
